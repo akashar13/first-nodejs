@@ -1,0 +1,20 @@
+{
+    "name": "trial",
+    "version": "1.0.1",
+    "description": "first try",
+    "main": "app.js",
+    "scripts": {
+        "start": "npx nodemon server.js"
+    },
+    "author": "akash",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "mongoose": "^5.13.13"
+    },
+    "devDependencies": {
+        "eslint": "^8.3.0",
+        "nodemon": "^2.0.15"
+    }
+}
